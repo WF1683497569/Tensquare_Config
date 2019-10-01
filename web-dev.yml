@@ -2,7 +2,7 @@ server:
   port: 9012
 spring:
   application:
-    name: tensquare-manager
+    name: tensquare-web
   rabbitmq:
     host: 192.168.159.129
 eureka:
